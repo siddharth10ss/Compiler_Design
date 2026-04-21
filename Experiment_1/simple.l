@@ -47,5 +47,3 @@ int|float|if|else|while|return {
 int yywrap() {
     return 1;
 }
-
-
